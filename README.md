@@ -125,3 +125,6 @@ Execute the program
 # OUPUT
 ![outputgot png](https://github.com/Pradeepkumar-2005/timetable/assets/147474038/818af469-d851-449e-8423-25fbcb003c3a)
 
+# RESULT
+This program executed successfully.
+
